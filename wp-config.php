@@ -16,23 +16,22 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'db576736046');
+/** 1and1 Config */
+// define('DB_NAME', 'db576736046');
+// define('DB_USER', 'dbo576736046');
+// define('DB_PASSWORD', 'demodemo');
+// define('DB_HOST', 'db576736046.db.1and1.com');
+// define('DB_CHARSET', 'utf8');
+// define('DB_COLLATE', '');
 
-/** MySQL database username */
-define('DB_USER', 'dbo576736046');
-
-/** MySQL database password */
-define('DB_PASSWORD', 'demodemo');
-
-/** MySQL hostname */
-define('DB_HOST', 'db576736046.db.1and1.com');
-
-/** Database Charset to use in creating database tables. */
+/** Codio Config */
+define('DB_NAME', 'neyradocs');
+define('DB_USER', 'neyradev');
+define('DB_PASSWORD', 'Aurea1618#@!$');
+define('DB_HOST', 'localhost');
 define('DB_CHARSET', 'utf8');
-
-/** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
