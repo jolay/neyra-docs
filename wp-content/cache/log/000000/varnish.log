@@ -1,0 +1,292 @@
+[Tue, 19 May 2015 21:13:15 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 21:13:15 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 21:13:15 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 21:13:15 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] Connecting to  ...
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] PURGE /optimizar-velocidad-sitio-web-hecho-enwordpress/ HTTP/1.1
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] Host: online-marketing.mx
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Tue, 19 May 2015 21:20:37 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:21:47 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 21:21:47 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 21:21:47 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 21:21:47 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:23:54 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 21:23:54 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 21:23:54 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 21:23:54 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:49:04 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 21:49:04 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 21:49:04 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 21:49:04 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:55:08 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 21:55:08 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 21:55:08 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 21:55:08 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 21:59:03 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 21:59:03 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 21:59:03 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 21:59:03 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:01:52 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:01:52 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:01:52 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:01:52 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:04:16 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:04:16 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:04:16 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:04:16 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:08:24 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:08:24 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:08:24 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:08:24 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:10:45 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:10:45 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:10:45 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:10:45 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:14:41 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:14:41 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:14:41 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:14:41 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:16:07 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:16:07 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:16:07 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:16:07 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:28 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:28 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:28 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:28 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:29 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:31 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:31 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:31 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:31 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:32 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:32 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:32 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:32 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:35 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:35 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:35 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:35 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 22:19:37 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 22:19:37 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 22:19:37 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 22:19:37 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 23:40:00 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 23:40:00 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 23:40:00 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 23:40:00 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 23:42:31 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 23:42:31 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 23:42:31 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 23:42:31 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Tue, 19 May 2015 23:47:07 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Tue, 19 May 2015 23:47:07 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Tue, 19 May 2015 23:47:07 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Tue, 19 May 2015 23:47:07 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] Connecting to  ...
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] PURGE /optimizar-velocidad-sitio-web-hecho-enwordpress/ HTTP/1.1
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] Host: online-marketing.mx
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/optimizar-velocidad-sitio-web-hecho-enwordpress/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 01:44:38 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 01:48:58 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Wed, 20 May 2015 01:48:58 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Wed, 20 May 2015 01:48:58 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Wed, 20 May 2015 01:48:59 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 01:53:36 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Wed, 20 May 2015 01:53:36 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Wed, 20 May 2015 01:53:36 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Wed, 20 May 2015 01:53:36 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Connecting to  ...
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] PURGE /optimizar-tabla-html-seo/ HTTP/1.1
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Host: online-marketing.mx
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 03:58:17 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Connecting to  ...
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] PURGE /optimizar-tabla-html-seo/ HTTP/1.1
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 04:03:30 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Connecting to  ...
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] PURGE /optimizar-tabla-html-seo/ HTTP/1.1
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 04:27:34 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Connecting to  ...
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] PURGE /optimizar-tabla-html-seo/ HTTP/1.1
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Host: online-marketing.mx
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/optimizar-tabla-html-seo/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 04:52:13 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/pesos-ideales-de-imagenes-y-paginas-para-seo/] Connecting to  ...
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/pesos-ideales-de-imagenes-y-paginas-para-seo/] PURGE /pesos-ideales-de-imagenes-y-paginas-para-seo/ HTTP/1.1
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/pesos-ideales-de-imagenes-y-paginas-para-seo/] Host: online-marketing.mx
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/pesos-ideales-de-imagenes-y-paginas-para-seo/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 05:27:56 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/revisar-estructura-de-un-sitio-web-herramienta-de-texto-plano/] Connecting to  ...
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/revisar-estructura-de-un-sitio-web-herramienta-de-texto-plano/] PURGE /revisar-estructura-de-un-sitio-web-herramienta-de-texto-plano/ HTTP/1.1
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/revisar-estructura-de-un-sitio-web-herramienta-de-texto-plano/] Host: online-marketing.mx
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/revisar-estructura-de-un-sitio-web-herramienta-de-texto-plano/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 05:30:33 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:34:57 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Wed, 20 May 2015 05:34:57 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Wed, 20 May 2015 05:34:57 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Wed, 20 May 2015 05:34:57 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 05:36:11 +0000] [http://online-marketing.mx/.*] Connecting to  ...
+[Wed, 20 May 2015 05:36:11 +0000] [http://online-marketing.mx/.*] PURGE /.* HTTP/1.1
+[Wed, 20 May 2015 05:36:11 +0000] [http://online-marketing.mx/.*] Host: online-marketing.mx
+[Wed, 20 May 2015 05:36:11 +0000] [http://online-marketing.mx/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] Connecting to  ...
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] PURGE /recomendacion-de-seguridad-para-wordpress/ HTTP/1.1
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:31 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] Connecting to  ...
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] PURGE /recomendacion-de-seguridad-para-wordpress/ HTTP/1.1
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/recomendacion-de-seguridad-para-wordpress/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 15:08:51 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] Connecting to  ...
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] PURGE /modulos-seguridad-wordpress/ HTTP/1.1
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] Host: online-marketing.mx
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 16:15:16 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/] Connecting to  ...
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/] PURGE / HTTP/1.1
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/] Host: online-marketing.mx
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/feed/] Connecting to  ...
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/feed/] PURGE /feed/ HTTP/1.1
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/feed/] Host: online-marketing.mx
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/feed/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] Connecting to  ...
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] PURGE /modulos-seguridad-wordpress/ HTTP/1.1
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] Host: online-marketing.mx
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/modulos-seguridad-wordpress/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: online-marketing.mx
+[Wed, 20 May 2015 16:28:11 +0000] [http://online-marketing.mx/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
