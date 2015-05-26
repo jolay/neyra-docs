@@ -1,0 +1,202 @@
+
+/*
+ Document : wp-content/clientes/css/style.css
+ Created on : 2015-05-23 11:30 PM
+ Author : jolay 
+*/
+
+body {
+
+ font-family: arial;
+
+ sans-serif font-size: 14px;
+
+ color: #949494;
+
+ font-weight: 400;
+
+}
+
+.wrapper {
+
+ width: 65%;
+
+ margin: 0px auto;
+
+ padding: 5% 10%;
+
+ border: 1px solid #c0c0c0;
+
+}
+
+h1, h2, h3, h4, h5 {
+
+ font-family: Georgia;
+
+ font-size:1.6em;
+
+ font-style:italic;
+
+ font-weight:lighter;
+
+ color: #19A6F8;
+
+ font-weight: lighter;
+
+}
+
+h1 {
+
+ font-size: 2.5em;
+
+}
+
+h2, h3, h4, h5 {
+
+ margin-bottom:1.5em;
+
+ margin-top:1.6em;
+
+}
+
+p {
+
+ font-size: 1em;
+
+ line-height: 1.5em;
+
+}
+
+hr {
+
+ margin: 4.3em auto 4em auto;
+
+ height:1px;
+
+ border:0;
+
+ border-top:1px solid #949494;
+
+}
+
+ul, ol {
+
+ font-size: 1em;
+
+}
+
+ol li, ul li {
+
+ margin-bottom: 14px;
+
+ margin-top: 14px;
+
+}
+
+a {
+
+ color: #0087E2;
+
+ font-size:1em;
+
+}
+
+strong {
+
+ color: #0087E2;
+
+}
+
+em {
+
+ color: #999;
+
+ margin-bottom: 2.5em;
+
+}
+
+span {
+
+ text-decoration: underline;
+
+ color: #FF9933;
+
+}
+
+blockquote p {
+
+ font-size: .84em;
+
+}
+
+.fancy {
+
+ background: #f4f4f4;
+
+ padding: 2em;
+
+ border-left: 3px solid #0087E2;
+
+}
+
+span {
+
+ text-decoration:none;
+
+}
+
+.SnippetTitle {
+
+ font-size:1.25em;
+
+ color:#1a0dab;
+
+ margin:0;
+
+ padding:0;
+
+}
+
+.SnippetURL {
+
+ font-size:1.1em;
+
+ color:#006621;
+
+ margin:0;
+
+ padding:0;
+
+}
+
+.SnippetDescription {
+
+ font-size:1em;
+
+ color: #545454;
+
+ margin:0;
+
+ padding:0;
+
+}
+
+pre {
+
+ background:#F5F5F5;
+
+ padding:28px;
+
+ margin-top:49px;
+
+}
+
+code {
+
+ width:100%;
+
+ font-size:1em;
+
+ color:#5D5D5D;
+
+}

@@ -1,14 +1,5 @@
 /*
-Theme Name: Ample
-Theme URI: http://themegrill.com/themes/ample/
-Author: ThemeGrill
-Author URI: http://themegrill.com
-Description: Ample is a multipurpose responsive WordPress theme made to help you create a beautiful professional looking site in no time. It has numerous built-in options to give your site the look that you want. Get free support at http://themegrill.com/support-forum/ and check the demo at http://demo.themegrill.com/ample/
-Version: 1.0.2
-License: GNU General Public License, version 3 (GPLv3)
-License URI: http://www.gnu.org/licenses/gpl-3.0.txt
-Tags: light, white, three-columns, right-sidebar, left-sidebar, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, responsive-layout
-Text Domain: ample
+Theme: http://themegrill.com/themes/ample/
 */
 
 /*--------------------------------------------------------------
@@ -90,6 +81,7 @@ html {
    overflow-y: scroll; /* Keeps page centred in all browsers regardless of content height */
    -webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
    -ms-text-size-adjust: 100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+   height:100%;
 }
 article,
 aside,
@@ -249,7 +241,7 @@ blockquote cite {
 ====> 3.5 Others
 --------------------------------------------------------------*/
 body {
-   background: #f2f2f2; /* Fallback for when there is no custom background color defined. */
+   height:100%;
 }
 strong {
    font-weight: bold;
@@ -343,6 +335,9 @@ input.s {
    background-color: #ffffff;
    margin: 0;
    border: 1px solid #f2f2f2;
+}
+.home input.s {
+ width:79%;
 }
 input.s:focus {
    padding-left: 10px;
@@ -795,8 +790,7 @@ img#wpstats {
    border-radius: 0;
    color: #fff;
    line-height: 45px;
-   margin-left: -2px;
-   margin-bottom: 0;
+   margin: 0 0 0 0;
    padding: 0 15px;
    position: absolute;
    top: 0;
@@ -854,6 +848,16 @@ img#wpstats {
 .business-template .main-wrapper .widget {
    background-color: #ffffff;
 }
+.main-wrapper {
+ height:100%;
+ position:relative;
+ padding-bottom: 70px;
+}
+.home .main-wrapper {
+ background:url(images/bg-home-page.jpg) no-repeat center top;
+ background-attachment:fixed;
+ background-size:100% auto;
+}
 .business-template .widget.widget_call_to_action_block,
 .business-template .widget.widget_portfolio_block {
    background-color: transparent;
@@ -891,7 +895,16 @@ img#wpstats {
 .both-sidebar #tertiary .search-wrap button {
    right: 0;
 }
-
+.home div#search-4.widget.widget_search {
+ background:transparent;
+ width:100%;
+ position:absolute;
+ top:45%;
+}
+.home .search-wrap {
+ width:50%;
+ margin:0px auto;
+}
 /*
 ====> 11.2 Services Widget
 --------------------------------------------------------------*/
@@ -1193,10 +1206,14 @@ body.wide {
    background-color: #ffffff;
    margin: 0 auto;
    max-width: 1180px;
-   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+   /*box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);*/
 }
 .wide #page {
    max-width: 100%;
+}
+#page {
+   height:100%;
+   position:relative;
 }
 .inner-wrap {
    max-width: 1100px;
@@ -1208,6 +1225,11 @@ body.wide {
 --------------------------------------------------------------*/
 .business-template #masthead {
    background-color: #ffffff;
+   position:absolute;
+   left:0;
+   top:0;
+   width:100%;
+   z-index:5001;
 }
 .main-head-wrap {
    padding: 30px 0;
@@ -1624,7 +1646,14 @@ li.comment {
    color: #777;
    background-color: #1f2021;
    overflow: hidden;
-   padding: 50px 0 20px;
+   padding: 20px 0 20px;
+}
+footer {
+ position:fixed;
+ left:0;
+ bottom:0;
+ z-index:5002;
+ width:100%;
 }
 .scrollup:hover{opacity: 0.6;}
 .copyright-info ul li {margin-bottom: 10px; float: left;margin-left: 25px;}
@@ -1755,6 +1784,12 @@ a#scroll-up:hover {
 /*--------------------------------------------------------------
 14.0 Responsive Structure
 --------------------------------------------------------------*/
+@media screen and (max-width: 1366px) {
+   .home .main-wrapper {
+      background-size:120% auto;
+   }
+}
+
 @media screen and (max-width: 1190px) {
    #page {
       width: 97%;
@@ -1768,6 +1803,10 @@ a#scroll-up:hover {
    .business-template .widget.widget_call_to_action_block > .inner-wrap,
    .business-template .widget.widget_portfolio_block > .inner-wrap {
       width: 100%;
+   }
+   .home .main-wrapper {
+      background-size:130% auto;
+      background-repeat:repeat-y;
    }
 }
 @media screen and (max-width: 768px) {
@@ -1944,6 +1983,12 @@ a#scroll-up:hover {
       float: none;
       width: 100%;
    }
+   .home .search-wrap {
+      width:80%;
+   }
+   .home input.s {
+      width:69%;
+   }
 }
 @media screen and (max-width: 400px) {
    .big-slider .entry-title {
@@ -1961,3 +2006,4 @@ a#scroll-up:hover {
       width: 100%;
    }
 }
+/* Custom */

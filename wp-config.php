@@ -15,6 +15,9 @@
  * @package WordPress
  */
 
+define('WP_HOME','http://viking-sponsor.codio.io:3000');
+define('WP_SITEURL','http://viking-sponsor.codio.io:3000/');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** 1and1 Config */
 // define('DB_NAME', 'db576736046');
