@@ -15,26 +15,29 @@
  * @package WordPress
  */
 
-define('WP_HOME','http://viking-sponsor.codio.io:3000');
-define('WP_SITEURL','http://viking-sponsor.codio.io:3000/');
+// Codio Site URL
+//define('WP_HOME','http://viking-sponsor.codio.io:3000');
+//define('WP_SITEURL','http://viking-sponsor.codio.io:3000/');
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** 1and1 Config */
-// define('DB_NAME', 'db576736046');
-// define('DB_USER', 'dbo576736046');
-// define('DB_PASSWORD', 'demodemo');
-// define('DB_HOST', 'db576736046.db.1and1.com');
-// define('DB_CHARSET', 'utf8');
-// define('DB_COLLATE', '');
+// Neyra Site URL
+define('WP_HOME','http://docs.neyra.mx');
+define('WP_SITEURL','http://docs.neyra.mx');
 
 /** Codio Config */
-define('DB_NAME', 'neyradocs');
-define('DB_USER', 'neyradev');
+//define('DB_NAME', 'neyradocs');
+//define('DB_USER', 'neyradev');
+//define('DB_PASSWORD', 'Aurea1618#@!$');
+//define('DB_HOST', 'localhost');
+//define('DB_CHARSET', 'utf8');
+//define('DB_COLLATE', '');
+
+/** Neyra Server -  Config */
+define('DB_NAME', 'docsneyr_db');
+define('DB_USER', 'docsneyr_dev');
 define('DB_PASSWORD', 'Aurea1618#@!$');
-define('DB_HOST', 'localhost');
+define('DB_HOST', '23.229.121.186');
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
-
 
 /**#@+
  * Authentication Unique Keys and Salts.
